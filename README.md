@@ -75,5 +75,6 @@ The goal of SIA was to migrate scattered tools, spreadsheets, and outdated softw
 Originally published under MIT; changed to **CC BY-NC-ND 4.0** as of April 22, 2025.
 
 ## 🔗 Related Projects
+- **[SIA](https://github.com/HermiloOrtega/SIA)**
 - **[SIA – Petty Cash Module](https://github.com/HermiloOrtega/SIA-Petty-Cash)**
 - **[SIA – Material Testing Module](https://github.com/HermiloOrtega/SIA)**
